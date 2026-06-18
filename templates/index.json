@@ -99,6 +99,48 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_37LFib": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_ieGUX6": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3bJMnF": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3pLB4j": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ieGUX6",
+        "heading_3bJMnF",
+        "richtext_3pLB4j"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_5.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -196,6 +238,7 @@
     "image_with_text_overlay_PK9yFG",
     "logo_list_rERgXB",
     "image-with-text-overlay",
+    "image_with_text_overlay_37LFib",
     "before-after-image",
     "faq"
   ]
