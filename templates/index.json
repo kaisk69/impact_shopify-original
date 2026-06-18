@@ -31,7 +31,7 @@
         "logo_XY6W44": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg_8d3cd8cc-63ea-4d79-8f32-5ca2a1797bef.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_MKwJE3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/VOGUE_revista_-_logo_a326d84c-6a56-4db3-ab57-d28fcdc42ed5.png",
+            "logo": "shopify://shop_images/marie-clair-noir_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_6bFYHH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo-Nouveau_541cfafe-0ee3-407c-b281-32c4b26c38ab.png",
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +55,7 @@
         "logo_UMYRWJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo": "shopify://shop_images/Cosmopolitan-Logo-Nouveau.png",
             "logo_width": 120,
             "link": ""
           }
@@ -91,7 +91,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Pourquoi_TA_MARQUE_change_vraiment_ta_peau_3.png",
+        "image": "shopify://shop_images/Pourquoi_TA_MARQUE_change_vraiment_ta_peau_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -161,47 +161,6 @@
         "logo_item_border": ""
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -252,14 +211,14 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#F0F0F0",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -277,7 +236,6 @@
     "image-with-text-overlay",
     "before-after-image",
     "press",
-    "multiple-images-with-text",
     "faq"
   ]
 }
