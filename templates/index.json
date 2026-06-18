@@ -22,7 +22,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_rERgXB": {
@@ -138,7 +138,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "before-after-image": {
@@ -161,7 +161,7 @@
         "text_color": "",
         "before_text_color": "#000000",
         "after_text_color": "#000000",
-        "drag_cursor_background": "#FFFFFF",
+        "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
     },
