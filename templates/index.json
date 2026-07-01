@@ -313,10 +313,10 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "atc_button_background": "#F7B6C8",
+            "atc_button_text_color": "#000000",
+            "payment_button_background": "#F7B6C8",
+            "payment_button_text_color": "#000000"
           }
         },
         "liquid_Hn7chi": {
