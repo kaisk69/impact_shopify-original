@@ -335,6 +335,20 @@
           "type": "pickup_availability",
           "disabled": true,
           "settings": {}
+        },
+        "loox_reviews_loox_agg_section_6cYycA": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
         }
       },
       "block_order": [
@@ -351,7 +365,8 @@
         "buy_buttons_BWyLt8",
         "liquid_Hn7chi",
         "liquid_ejKB8X",
-        "pickup_availability_GKLjEK"
+        "pickup_availability_GKLjEK",
+        "loox_reviews_loox_agg_section_6cYycA"
       ],
       "name": "Featured product",
       "settings": {
@@ -472,6 +487,28 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "17830934584c098027": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17830949413b3d28d6": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -484,6 +521,8 @@
     "featured_product_Pk76QX",
     "faq",
     "1782927832215fa29b",
-    "17830899128af36814"
+    "17830899128af36814",
+    "17830934584c098027",
+    "17830949413b3d28d6"
   ]
 }
