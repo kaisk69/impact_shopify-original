@@ -313,9 +313,9 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#F7B6C8",
+            "atc_button_background": "#f7b6c8",
             "atc_button_text_color": "#000000",
-            "payment_button_background": "#F7B6C8",
+            "payment_button_background": "#f7b6c8",
             "payment_button_text_color": "#000000"
           }
         },
@@ -450,6 +450,28 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "17830899128af36814": {
+      "type": "apps",
+      "blocks": {
+        "rapi_rapi_bundle_Wc9c3r": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "veloria"
+          }
+        }
+      },
+      "block_order": [
+        "rapi_rapi_bundle_Wc9c3r"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -461,6 +483,7 @@
     "multi_column_ezrHmq",
     "featured_product_Pk76QX",
     "faq",
-    "1782927832215fa29b"
+    "1782927832215fa29b",
+    "17830899128af36814"
   ]
 }
