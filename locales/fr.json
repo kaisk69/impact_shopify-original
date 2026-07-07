@@ -254,20 +254,20 @@
       "instructions": "Entrez un mot de passe pour créer votre compte :",
       "password": "Mot de passe",
       "password_confirmation": "Confirmation du mot de passe",
-      "submit": "Activate",
-      "cancel": "Cancel"
+      "submit": "Activer",
+      "cancel": "Annuler"
     },
     "reset_password": {
-      "title": "Reset password",
-      "password": "Password",
-      "password_confirmation": "Password confirmation",
-      "submit": "Reset"
+      "title": " Réinitialiser le mot de passe",
+      "password": "Mot de passe",
+      "password_confirmation": "Confirmation du mot de passe",
+      "submit": "Réinitialiser"
     },
     "order": {
-      "order": "Order",
-      "order_name": "Order {{name}}",
-      "view_details": "View order details",
-      "back": "Back",
+      "order": " Commande",
+      "order_name": " Commande {{name}}",
+      "view_details": "Voir les détails de la commande",
+      "back": "Retour",
       "date": "Date",
       "payment_status": "Payment status",
       "fulfillment_status": "Fulfillment status",
