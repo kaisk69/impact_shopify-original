@@ -417,17 +417,17 @@
   },
   "password": {
     "general": {
-      "follow_us": "Follow us",
-      "powered_by": "This shop is powered by",
-      "store_owner": "Store owner?",
-      "login": "Login"
+      "follow_us": "Suivez-nous",
+      "powered_by": "Cette boutique est propulsée par",
+      "store_owner": " Propriétaire de la boutique ?",
+      "login": "Connexion"
     },
     "storefront_access": {
-      "enter_password": "Enter using password",
-      "store_access": "Store access",
-      "instructions": "Enter password below to access the store",
-      "password": "Password",
-      "enter_store": "Enter the store"
+      "enter_password": " Entrer avec un mot de passe",
+      "store_access": "Accès à la boutique",
+      "instructions": "Entrez le mot de passe ci-dessous pour accéder à la boutique",
+      "password": "Mot de passe",
+      "enter_store": "Entrer dans la boutique"
     }
   },
   "apps": {
