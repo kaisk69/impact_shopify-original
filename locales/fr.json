@@ -301,15 +301,15 @@
       "fill_form": "Veuillez remplir les informations ci-dessous :",
       "first_name": "Prénom",
       "last_name": "Nom",
-      "company": "Company",
-      "phone": "Phone number",
+      "company": "Entreprise",
+      "phone": "Numéro de téléphone",
       "address1": "Address 1",
       "address2": "Address 2",
-      "city": "City",
-      "zip": "Zip code",
-      "country": "Country",
+      "city": "Ville",
+      "zip": " Code postal",
+      "country": " Pays",
       "province": "Province",
-      "set_default": "Set as default address"
+      "set_default": "Définir comme adresse par défaut"
     }
   },
   "cart": {
