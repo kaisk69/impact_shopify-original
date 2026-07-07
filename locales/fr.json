@@ -365,8 +365,8 @@
   },
   "404": {
     "general": {
-      "title": "Page not found",
-      "continue_shopping": "Continue shopping"
+      "title": "Page introuvable",
+      "continue_shopping": "Continuer mes achats"
     }
   },
   "search": {
