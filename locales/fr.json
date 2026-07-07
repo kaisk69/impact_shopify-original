@@ -340,20 +340,20 @@
     "order": {
       "product": "Produit",
       "total": "Total",
-      "quantity": "Quantity",
-      "change_quantity": "Change quantity",
-      "increase_quantity": "Increase quantity",
-      "decrease_quantity": "Decrease quantity",
-      "remove": "Remove",
-      "remove_with_title": "Remove {{ title }}"
+      "quantity": "Quantité",
+      "change_quantity": "Modifier la quantité",
+      "increase_quantity": " Augmenter la quantité",
+      "decrease_quantity": " Diminuer la quantité",
+      "remove": "Supprimer",
+      "remove_with_title": "Supprimer {{ title }}"
     },
     "free_shipping_bar": {
-      "limit_unreached_html": "Spend {{ remaining_amount }} more and get free shipping!",
-      "limit_reached_html": "You are eligible for free shipping."
+      "limit_unreached_html": "Dépensez encore {{ remaining_amount }} pour bénéficier de la livraison gratuite !",
+      "limit_reached_html": "Vous bénéficiez de la livraison gratuite !"
     },
     "shipping_estimator": {
-      "estimate_shipping": "Estimate shipping",
-      "country": "Country",
+      "estimate_shipping": " Estimer la livraison",
+      "country": "Pays",
       "province": "Province",
       "zip": "Zip code",
       "estimate": "Estimate",
