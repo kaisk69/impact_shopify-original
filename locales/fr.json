@@ -51,19 +51,19 @@
       "change_language_accessibility_text": "Changer la langue"
     },
     "privacy_bar": {
-      "accept": "Accept",
-      "decline": "Decline"
+      "accept": "Accepter",
+      "decline": "Refuser"
     },
     "form": {
-      "max_characters": "{{ max_chars }} characters max"
+      "max_characters": "{{ max_chars }} caractères maximum"
     },
     "on_boarding": {
-      "blog_post_category": "Category",
+      "blog_post_category": "Catégorie",
       "blog_post_title": "Article",
-      "blog_post_excerpt": "Write text about your blog post.",
-      "product_vendor": "Vendor",
-      "product_title": "Product",
-      "product_description": "Write text about your product.",
+      "blog_post_excerpt": "Rédigez un texte sur votre article de blog",
+      "product_vendor": "Fournisseur",
+      "product_title": "Produit",
+      "product_description": "Rédigez un texte sur votre produit",
       "collection_title": "Collection"
     }
   },
