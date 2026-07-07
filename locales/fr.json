@@ -178,16 +178,16 @@
   },
   "blog": {
     "general": {
-      "empty_blog": "This blog is empty",
-      "back_to_home": "Back to home",
-      "view": "View",
-      "all_posts": "All posts"
+      "empty_blog": "Ce blog est vide",
+      "back_to_home": "Retour à l'accueil",
+      "view": "Voir",
+      "all_posts": "Tous les articles"
     },
     "post": {
-      "written_by": "By {{ author }}",
-      "share": "Share",
+      "written_by": "Par {{ author }}",
+      "share": "Partager",
       "tags": "Tags",
-      "continue_reading": "Reading next"
+      "continue_reading": "Lire la suite"
     },
     "comments": {
       "leave_comment": "Leave a comment",
