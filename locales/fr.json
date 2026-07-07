@@ -126,21 +126,21 @@
       "price_at_each": "{{ price }}/pièce"
     },
     "rating_count": {
-      "zero": "No reviews",
-      "one": "{{ count }} review",
-      "other": "{{ count }} reviews"
+      "zero": "Aucun avis",
+      "one": "{{ count }} avis",
+      "other": "{{ count }} avis"
     },
     "inventory": {
-      "in_stock": "In stock",
-      "oversell_stock": "Re-stocking soon",
-      "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
+      "in_stock": "En stock",
+      "oversell_stock": "Réapprovisionnement bientôt",
+      "incoming_stock": "Réapprovisionnement le {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
-        "one": "Only {{count}} unit left",
-        "other": "Only {{count}} units left"
+        "one": "Plus que {{count}} unité disponible",
+        "other": "Plus que {{count}} unité disponible"
       }
     },
     "store_availability": {
-      "view_store_info": "View store information",
+      "view_store_info": "Voir les informations du magasin",
       "check_other_stores": "Check availability at other stores",
       "pick_up_available": "Pickup available",
       "pick_up_currently_unavailable": "Pickup currently unavailable",
