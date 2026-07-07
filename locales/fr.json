@@ -190,18 +190,18 @@
       "continue_reading": "Lire la suite"
     },
     "comments": {
-      "leave_comment": "Leave a comment",
-      "moderated": "All comments are moderated before being published.",
-      "name": "Name",
+      "leave_comment": " Laisser un commentaire",
+      "moderated": "Tous les commentaires sont modérés avant d'être publiés",
+      "name": "Nom",
       "email": "E-mail",
       "message": "Message",
-      "submit": "Submit",
-      "comment_sent": "Your comment has been sent. We will publish it in a little while, as our blog is moderated.",
-      "comment_published": "Your comment has been published.",
+      "submit": "Envoyer",
+      "comment_sent": "Votre commentaire a été envoyé. Nous le publierons dans quelques instants, car notre blog est modéré",
+      "comment_published": "Votre commentaire a été publié",
       "count": {
-        "zero": "{{ count }} comments",
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "zero": "{{ count }}  commentaires",
+        "one": "{{ count }}  commentaire",
+        "other": "{{ count }}  commentaires"
       }
     }
   },
