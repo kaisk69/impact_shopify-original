@@ -229,19 +229,19 @@
       "email": "E-mail",
       "password": "Mot de passe",
       "submit": "Connexion",
-      "forgot_password": "Forgot your password?",
-      "sign_up": "Sign up"
+      "forgot_password": " Mot de passe oublié ?",
+      "sign_up": "S'inscrire"
     },
     "recover_password": {
-      "title": "Recover password",
+      "title": "Récupérer le mot de passe",
       "email": "E-mail",
-      "submit": "Recover",
-      "back_to_login": "Back to login",
-      "success_message": "An e-mail has been sent to your address with instructions to reset your password."
+      "submit": "Récupérer",
+      "back_to_login": "Retour à la connexion",
+      "success_message": "Un e-mail a été envoyé à votre adresse avec les instructions pour réinitialiser votre mot de passe"
     },
     "register": {
-      "title": "Sign up",
-      "first_name": "First name",
+      "title": "S'inscrire",
+      "first_name": "Prénom",
       "last_name": "Last name",
       "email": "E-mail",
       "password": "Password",
