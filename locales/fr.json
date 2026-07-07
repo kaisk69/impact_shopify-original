@@ -382,12 +382,12 @@
       "clear": "Effacer",
       "view_all": "Voir tout",
       "view_all_results": " Voir tous les résultats",
-      "no_results": "No results could be found."
+      "no_results": "Aucun résultat trouvé"
     },
     "results_count": {
-      "zero": "0 results for \"{{ terms }}\"",
-      "one": "1 result for \"{{ terms }}\"",
-      "other": "{{ count }} results for \"{{ terms }}\""
+      "zero": "0 résultat pour \"{{ terms }}\"",
+      "one": " 1 résultat pour \"{{ terms }}\"",
+      "other": "{{ count }} résultats pour \"{{ terms }}\""
     }
   },
   "gift_card": {
