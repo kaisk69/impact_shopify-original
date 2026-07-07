@@ -355,12 +355,12 @@
       "estimate_shipping": " Estimer la livraison",
       "country": "Pays",
       "province": "Province",
-      "zip": "Zip code",
-      "estimate": "Estimate",
-      "no_results": "Sorry, we do not ship to your address.",
-      "one_result": "There is one shipping rate for your address:",
-      "multiple_results": "There are several shipping rates for your address:",
-      "error": "One or more error occurred while retrieving shipping rates:"
+      "zip": "Code postal",
+      "estimate": "Estimer",
+      "no_results": "Désolé, nous ne livrons pas à votre adresse",
+      "one_result": "Il y a un tarif de livraison pour votre adresse :",
+      "multiple_results": "Il y a plusieurs tarifs de livraison pour votre adresse :",
+      "error": "Une ou plusieurs erreurs sont survenues lors de la récupération des tarifs de livraison :"
     }
   },
   "404": {
