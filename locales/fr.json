@@ -317,9 +317,9 @@
       "title": "Panier",
       "empty": "Votre panier est vide",
       "item_count": {
-        "one": "{{ count }} item",
-        "other": "{{ count }} items",
-        "zero": "{{ count }} items"
+        "one": "{{ count }} article",
+        "other": "{{ count }} articles",
+        "zero": "{{ count }} articles"
       },
       "continue_shopping": "Continuer mes achats",
       "weight": "Poids",
@@ -331,14 +331,14 @@
       "taxes_and_shipping_at_checkout": "Taxes et livraison calculées à la caisse",
       "add_order_note": "Ajouter une note à la commande",
       "edit_order_note": "Modifier la note de commande",
-      "order_note": "Order note",
-      "save_note": "Save",
+      "order_note": "Note de commande",
+      "save_note": " Enregistrer",
       "view_cart": "Panier",
-      "checkout": "Checkout",
-      "we_accept": "We accept"
+      "checkout": "Passer à la caisse",
+      "we_accept": "Nous acceptons"
     },
     "order": {
-      "product": "Product",
+      "product": "Produit",
       "total": "Total",
       "quantity": "Quantity",
       "change_quantity": "Change quantity",
