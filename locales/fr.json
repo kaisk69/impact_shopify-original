@@ -371,17 +371,17 @@
   },
   "search": {
     "general": {
-      "title": "Search",
-      "terms": "Results for \"{{ terms }}\"",
-      "search_placeholder": "Search for...",
-      "products": "Products",
+      "title": "Recherche",
+      "terms": "Résultats pour \"{{ terms }}\"",
+      "search_placeholder": "Rechercher...",
+      "products": " Produits",
       "suggestions": "Suggestions",
       "collections": "Collections",
-      "posts": "Blog posts",
+      "posts": "Articles de blog",
       "pages": "Pages",
-      "clear": "Clear",
-      "view_all": "View all",
-      "view_all_results": "View all results",
+      "clear": "Effacer",
+      "view_all": "Voir tout",
+      "view_all_results": " Voir tous les résultats",
       "no_results": "No results could be found."
     },
     "results_count": {
