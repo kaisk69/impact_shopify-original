@@ -69,11 +69,11 @@
   },
   "header": {
     "general": {
-      "account": "Account",
-      "login": "Login",
+      "account": "Compte",
+      "login": "Connexion",
       "menu": "Menu",
-      "search": "Search",
-      "cart": "Cart"
+      "search": "Rechercher",
+      "cart": "Panier"
     }
   },
   "product": {
