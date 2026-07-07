@@ -12,43 +12,43 @@
     "page": "Page {{ page }}",
     "home": "Accueil",
     "accessibility": {
-      "skip_to_content": "Skip to content",
-      "pagination": "Pagination navigation",
-      "go_to_page": "Go to page {{ index }}",
-      "go_to_item": "Go to item {{ index }}",
-      "item_nth_of_count": "Item {{ index }} of {{ count }}",
-      "drag": "Drag",
-      "close": "Close",
-      "next": "Next",
-      "previous": "Previous",
-      "play_video": "Play video",
-      "read_more": "Read more"
+      "skip_to_content": "Aller au contenu",
+      "pagination": "Navigation",
+      "go_to_page": "Aller à la page {{ index }}",
+      "go_to_item": "Aller à l'élément{{ index }}",
+      "item_nth_of_count": "Élément numéro {{ index }} sur {{ count }}",
+      "drag": "Glisser",
+      "close": "Fermer",
+      "next": "Suivant",
+      "previous": "Précédent",
+      "play_video": "Lire la vidéo",
+      "read_more": "Lire la suite"
     },
     "label": {
-      "color": "Color,Colour",
-      "white": "White",
-      "size": "Size"
+      "color": "Couleur",
+      "white": "Blanc",
+      "size": "Taille"
     },
     "social": {
-      "follow_on": "Follow on {{ social_media }}",
-      "share": "Share",
-      "share_on": "Share on {{ social_media }}",
-      "share_email": "Share by email"
+      "follow_on": "Suivre sur {{ social_media }}",
+      "share": "Partager",
+      "share_on": "Partager sur {{ social_media }}",
+      "share_email": "Partager par email"
     },
     "rating": {
-      "info": "{{ rating_value }} out of {{ rating_max }} stars"
+      "info": "{{ rating_value }} étoiles sur {{ rating_max }} "
     },
     "newsletter": {
       "email": "E-mail",
-      "subscribe": "Subscribe",
-      "notify_me": "Notify me",
-      "subscribed_successfully": "You have been subscribed to our newsletter."
+      "subscribe": "S'abonner",
+      "notify_me": "Me notifier",
+      "subscribed_successfully": "Vous avez été abonné à notre newsletter"
     },
     "localization": {
-      "country": "Country",
-      "language": "Language",
-      "change_country_accessibility_text": "Change country or currency",
-      "change_language_accessibility_text": "Change language"
+      "country": "Pays",
+      "language": "Langue",
+      "change_country_accessibility_text": "Changer le pays ou la devise",
+      "change_language_accessibility_text": "Changer la langue"
     },
     "privacy_bar": {
       "accept": "Accept",
