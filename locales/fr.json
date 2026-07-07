@@ -432,12 +432,12 @@
   },
   "apps": {
     "shopify_reviews": {
-      "review_info": "This product is rated {{ rating_value }} of {{ rating_max }} stars.",
-      "leave_review": "Leave a review",
+      "review_info": "Ce produit est noté {{ rating_value }} sur {{ rating_max }} étoiles",
+      "leave_review": "Laisser un avis",
       "review_count": {
-        "zero": "This product has no reviews yet.",
-        "one": "It has received {{ count }} review.",
-        "other": "It has received {{ count }} reviews."
+        "zero": "Ce produit n'a pas encore d'avis",
+        "one": "Il a reçu {{ count }} avis",
+        "other": "Il a reçu {{ count }} avis"
       }
     }
   }
