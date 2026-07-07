@@ -150,15 +150,15 @@
   },
   "collection": {
     "general": {
-      "empty_collection": "This collection is empty",
-      "all_collections": "All collections",
-      "no_collections": "This store does not contain any collection.",
-      "continue_shopping": "Continue shopping"
+      "empty_collection": "Cette collection est vide",
+      "all_collections": " Toutes les collections",
+      "no_collections": "Cette boutique ne contient aucune collection",
+      "continue_shopping": "Continuer mes achats"
     },
     "products_count": {
-      "zero": "0 products",
-      "one": "1 product",
-      "other": "{{ count }} products"
+      "zero": "0 produit",
+      "one": "1 produit",
+      "other": "{{ count }} produits"
     },
     "faceting": {
       "filters": "Filters",
