@@ -405,13 +405,13 @@
       "code": "Code de la carte cadeau",
       "expires_on": " Expire le : {{ expires_on }}",
       "expired": " Votre carte cadeau a expiré ou a été désactivée",
-      "add_to_apple_wallet": "Add to Apple Wallet"
+      "add_to_apple_wallet": "Ajouter à Apple Wallet"
     },
     "recipient": {
-      "checkbox": "I want to send this as a gift",
-      "email_label": "Recipient email",
-      "name_label": "Recipient name (optional)",
-      "send_on_label": "Send on (optional)",
+      "checkbox": "Je souhaite envoyer ceci en cadeau",
+      "email_label": "E-mail du destinataire",
+      "name_label": "Nom du destinataire (optional)",
+      "send_on_label": "Envoyer le (optional)",
       "message_label": "Message (optional)"
     }
   },
