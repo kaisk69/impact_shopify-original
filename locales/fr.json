@@ -392,19 +392,19 @@
   },
   "gift_card": {
     "general": {
-      "title": "Here's your gift card",
-      "copy": "Copy",
-      "print": "Print",
-      "scan": "or scan this QR code",
-      "back_to_store": "Back to the store"
+      "title": "Voici votre carte cadeau",
+      "copy": "Copier",
+      "print": "Imprimer",
+      "scan": "ou scannez ce QR code",
+      "back_to_store": "Retour à la boutique"
     },
     "issued": {
-      "remaining_amount": "Remaining amount",
-      "out_of_html": "out of {{ initial_value }}",
-      "redeem_instructions": "Use this code to redeem your gift card at checkout:",
-      "code": "Gift card code",
-      "expires_on": "Expires on: {{ expires_on }}",
-      "expired": "Your gift card has expired or has been disabled.",
+      "remaining_amount": "Montant restant",
+      "out_of_html": "sur {{ initial_value }}",
+      "redeem_instructions": "Utilisez ce code pour utiliser votre carte cadeau à la caisse :",
+      "code": "Code de la carte cadeau",
+      "expires_on": " Expire le : {{ expires_on }}",
+      "expired": " Votre carte cadeau a expiré ou a été désactivée",
       "add_to_apple_wallet": "Add to Apple Wallet"
     },
     "recipient": {
