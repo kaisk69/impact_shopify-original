@@ -216,13 +216,13 @@
   },
   "customer": {
     "account": {
-      "welcome": "Welcome, {{first_name}}",
-      "tagline": "View all your orders and manage your account information.",
-      "orders": "Orders",
-      "addresses": "Addresses",
-      "logout": "Logout",
-      "no_orders": "You haven't placed any orders yet.",
-      "continue_shopping": "Continue shopping"
+      "welcome": "Bienvenue, {{first_name}}",
+      "tagline": " Consultez toutes vos commandes et gérez vos informations de compte",
+      "orders": "Commandes",
+      "addresses": "Adresses",
+      "logout": "Déconnexion",
+      "no_orders": "Vous n'avez pas encore passé de commande",
+      "continue_shopping": "Continuer mes achats"
     },
     "login": {
       "title": "Login",
