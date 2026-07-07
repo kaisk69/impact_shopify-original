@@ -225,10 +225,10 @@
       "continue_shopping": "Continuer mes achats"
     },
     "login": {
-      "title": "Login",
+      "title": "Connexion",
       "email": "E-mail",
-      "password": "Password",
-      "submit": "Login",
+      "password": "Mot de passe",
+      "submit": "Connexion",
       "forgot_password": "Forgot your password?",
       "sign_up": "Sign up"
     },
