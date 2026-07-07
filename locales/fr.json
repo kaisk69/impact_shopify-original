@@ -242,18 +242,18 @@
     "register": {
       "title": "S'inscrire",
       "first_name": "Prénom",
-      "last_name": "Last name",
+      "last_name": "Nom",
       "email": "E-mail",
-      "password": "Password",
-      "accepts_marketing": "Register to our newsletter",
-      "submit": "Create account",
-      "login": "Login"
+      "password": " Mot de passe",
+      "accepts_marketing": "S'inscrire à notre newsletter",
+      "submit": " Créer un compte",
+      "login": "Connexion"
     },
     "activate_account": {
-      "title": "Activate account",
-      "instructions": "Enter a password to create your account:",
-      "password": "Password",
-      "password_confirmation": "Password confirmation",
+      "title": "Activer le compte",
+      "instructions": "Entrez un mot de passe pour créer votre compte :",
+      "password": "Mot de passe",
+      "password_confirmation": "Confirmation du mot de passe",
       "submit": "Activate",
       "cancel": "Cancel"
     },
