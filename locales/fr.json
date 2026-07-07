@@ -308,7 +308,7 @@
       "city": "Ville",
       "zip": " Code postal",
       "country": " Pays",
-      "province": "Province",
+      "province": "Région",
       "set_default": "Définir comme adresse par défaut"
     }
   },
