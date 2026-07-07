@@ -161,19 +161,19 @@
       "other": "{{ count }} produits"
     },
     "faceting": {
-      "filters": "Filters",
-      "filter_and_sort": "Filter and sort",
-      "filter_button": "Filter",
-      "clear_filters": "Clear all",
-      "apply_filters": "Apply",
-      "sort_by": "Sort by",
-      "remove_filter": "Remove filter \"{{ name }}\"",
-      "no_results": "No products match those filters.",
-      "price_range_to": "to",
-      "price_filter_from": "From price",
-      "price_filter_to": "To price",
+      "filters": "Filtres",
+      "filter_and_sort": "Filtrer et trier",
+      "filter_button": " Filtrer",
+      "clear_filters": "Tout effacer",
+      "apply_filters": "Appliquer",
+      "sort_by": "Trier par",
+      "remove_filter": "Supprimer le filtre \"{{ name }}\"",
+      "no_results": " Aucun produit ne correspond à ces filtres",
+      "price_range_to": "à",
+      "price_filter_from": "Prix à partir de",
+      "price_filter_to": "Prix jusqu'à",
       "price_filter": "{{ min_price }} - {{ max_price }}",
-      "availability_label": "In stock only"
+      "availability_label": "En stock uniquement"
     }
   },
   "blog": {
