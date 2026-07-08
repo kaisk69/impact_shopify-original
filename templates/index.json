@@ -468,17 +468,6 @@
     },
     "17830899128af36814": {
       "type": "apps",
-      "blocks": {
-        "rapi_rapi_bundle_Wc9c3r": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "veloria"
-          }
-        }
-      },
-      "block_order": [
-        "rapi_rapi_bundle_Wc9c3r"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
